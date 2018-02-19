@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coast to Coast</title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 19 Feb 2018 16:45:14 -0400</pubDate>
+    <lastBuildDate>Mon, 19 Feb 2018 16:45:14 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Day One</title>
+        <description>&lt;p&gt;Today is Day One. Me and Zoe are launching this blog as a place for us to work together and think things through. Not always will out takes be good, in fact many of them are likely to be bad: that’s the point. We want to work out how and what we think about today’s issues using a variety of tools and backgrounds.&lt;/p&gt;
+
+&lt;p&gt;I am from Medicine Hat, Alberta. I grew up in a fairly conservative household, although am not a self-prescribed conservative. Zoe, from Vancouver, British Columbia, had a very different upbringing, growing up in what she often calls a “hippy” family.&lt;/p&gt;
+
+&lt;p&gt;Our backgrounds are in Science (Landon) and Political Science/Sustainability (Zoe) and we hope these backgrounds will serve us well in this undertaking.&lt;/p&gt;
+
+&lt;p&gt;We look forward to providing unique thoughts and takes on today’s issues, both in the media and more obscure. Check back! We will be publishing soon!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Feb 2018 00:00:00 -0400</pubDate>
+        <link>/2018/02/19/day-one/</link>
+        <guid isPermaLink="true">/2018/02/19/day-one/</guid>
+        
+        
+        <category>Explanations</category>
+        
+      </item>
+    
+  </channel>
+</rss>
